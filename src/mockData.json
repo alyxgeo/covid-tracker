@@ -1,0 +1,47 @@
+[
+    {
+        "state": "Maharashtra",
+        "totalCases": 7760000, 
+        "active": 200000,
+        "recovered": 7500000,
+        "deaths": 60000,
+        "lat": 19.076,
+        "long": 72.8777
+    },
+    {
+        "state": "Karnataka",
+        "totalCases": 5085000,
+        "active": 150000,
+        "recovered": 4900000,
+        "deaths": 35000,
+        "lat": 12.9716,
+        "long": 77.5946
+    },
+    {
+        "state": "Delhi",
+        "totalCases": 1785000, 
+        "active": 60000,
+        "recovered": 1700000,
+        "deaths": 25000,
+        "lat": 28.6139,
+        "long": 77.2090
+    },
+    {
+        "state": "Tamil Nadu",
+        "totalCases": 1470000,  
+        "active": 50000,
+        "recovered": 1400000,
+        "deaths": 20000,
+        "lat": 13.0827,
+        "long": 80.2707
+    },
+    {
+        "state": "West Bengal",
+        "totalCases": 1208000,  
+        "active": 40000,
+        "recovered": 1150000,
+        "deaths": 18000,
+        "lat": 22.9868,
+        "long": 87.8550
+    }
+]
